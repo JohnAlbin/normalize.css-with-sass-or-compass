@@ -1,5 +1,4 @@
-This project has moved!
-=======================
+= This project has moved!
 
 Please visit https://github.com/JohnAlbin/normalize-scss instead.
 
