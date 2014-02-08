@@ -1,4 +1,6 @@
-normalize.css-with-sass-or-compass-REPLACEMENT
-==============================================
+This project has moved!
+=======================
 
-This is the old location of https://github.com/JohnAlbin/normalize-scss
+Please visit https://github.com/JohnAlbin/normalize-scss instead.
+
+Sorry for breaking your links! But really… “normalize.css-with-sass-or-compass” as a project name… WTF was I thinking?!?
